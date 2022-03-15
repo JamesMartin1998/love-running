@@ -184,7 +184,7 @@ hr{
     background-position:center;
     width: 100%;
     overflow:hidden;
-    margin-top: 180px;
+    margin-top:180px;
 }
 
 #times div{
@@ -265,6 +265,10 @@ footer{
         padding: 0;
     }
 
+    #times{
+        margin-top:0px;
+    }
+
     #times > div{
         width:100%;
         clear: both;
@@ -275,6 +279,7 @@ footer{
     hr{
         display:none;
     }
+
 }
 
 /* For medium screen sizes from 950px wide and down */
